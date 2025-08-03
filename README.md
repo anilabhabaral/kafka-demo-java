@@ -6,7 +6,7 @@
 - Make sure your env. has maven 3.9+ and Java 17+ 
 
 ```
-cd KAFKA-DEMO-JAVA
+cd kafka-demo-java
 ```
 - Build the project:
 ```
